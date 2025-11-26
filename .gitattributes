@@ -1,0 +1,4 @@
+# Configuración de formatos de línea y tipos de archivo
+/gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
